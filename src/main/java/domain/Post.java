@@ -1,6 +1,6 @@
 package domain;
 
-public class theWall {
+public class Post {
     private int id;
     private int ownerId;
     private int fromId;
